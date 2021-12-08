@@ -1,2 +1,2 @@
 # blog-gitalk-comment
-chenfyu.com
+http://chenfyu.com
